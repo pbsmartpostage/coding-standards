@@ -32,6 +32,9 @@ Don't Repeat Yourself. Do not copy and paste blocks of code from one file to the
 
 ### Rule 6: Stay current
 Keep yourself up to date on new technologies. A good rule of thumb as to what you should know, is ```n+1``` libraries. There is always something newer, better and more simple.
+
+### Rule 7: Contribute
+The rules are not here to be written by one and followed by all, they are written by the team for the team. So contribute your ideas and best practices! See [How to Contribute](/contributing).
     
 ## Language Based Style Guides
 
