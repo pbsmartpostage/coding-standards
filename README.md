@@ -1,6 +1,6 @@
 # Front End Coding Standards
 
-These rules and standards are a good start at keeping a good, clean code base, allowing us to collaborate easier with each other, and follow one another's code.
+These [rules](#rules) and [standards](#language-based-style-guides) are a good start at keeping a good, clean code base, allowing us to collaborate easier with each other, and follow one another's code.
 
 Everything you read here, is a combination of guildlines from several well respected contributors.
 
