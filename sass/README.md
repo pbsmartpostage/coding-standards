@@ -100,7 +100,7 @@ assets
 
 Good example of app.scss:
 
-``scss
+```scss
 // Application
 // ========================================
 
@@ -134,5 +134,3 @@ Our main settings file should also not contain any styles. It should just includ
 // ========================================
 @import "mixins/button";
 ```
-
-
