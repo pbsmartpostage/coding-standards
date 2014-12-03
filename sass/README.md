@@ -6,7 +6,7 @@ Make sure you follow all of the [css guidelines](../css/), as they provide a goo
 
 ## List @extend(s) First
 
-```css
+```scss
 .weather {
   @extends %module; 
   ...
@@ -15,7 +15,7 @@ Make sure you follow all of the [css guidelines](../css/), as they provide a goo
 
 ## List "Regular' Styles Next
 
-```css
+```scss
 .weather {
   @extends %module; 
   background: LightCyan;
@@ -25,7 +25,7 @@ Make sure you follow all of the [css guidelines](../css/), as they provide a goo
 
 ## List @include(s) Next
 
-```css
+```scss
 .weather {
   @extends %module; 
   background: LightCyan;
@@ -36,7 +36,7 @@ Make sure you follow all of the [css guidelines](../css/), as they provide a goo
 
 ## Nested Selectors Last
 
-```css
+```scss
 .weather {
   @extends %module; 
   background: LightCyan;
@@ -50,7 +50,7 @@ Make sure you follow all of the [css guidelines](../css/), as they provide a goo
 
 ## Maximum Nesting: Three (3) Levels Deep
 
-```css
+```scss
 .weather {
   .cities {
     li {
@@ -62,7 +62,7 @@ Make sure you follow all of the [css guidelines](../css/), as they provide a goo
 
 ## Be Generous With Comments
 
-```css
+```scss
 .overlay {
   // modals are 6000, saving messages are 5500, header is 2000
   z-index: 5000; 
@@ -100,7 +100,7 @@ assets
 
 Good example of app.scss:
 
-```sass
+``scss
 // Application
 // ========================================
 
@@ -120,7 +120,7 @@ Good example of app.scss:
 
 Our main settings file should also not contain any styles. It should just include settings broken down into multiple files. Here is an example of _settings.scss:
 
-```
+```scss
 // Settings
 // ========================================
 
